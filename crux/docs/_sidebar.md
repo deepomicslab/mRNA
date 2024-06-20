@@ -1,0 +1,60 @@
+- <a href="https://oviz.org" class="to-oviz">Back to oviz.org</a>
+- [Home](/)
+- [Getting Started](get-started.md)
+---
+- **PART I: TEMPLATE**
+- [Basic Concepts](concepts.md)
+- [Basic Layout](layout.md)
+- [More Concepts](more-concepts.md)
+- [Component Library](primitives.md)
+- [Colors and Themes](theme.md)
+- [Incorporating Data](data.md)
+- [Customizing Components](sockets.md)
+- [Interactions](interactions.md)
+- [Advanced Layout](advanced-layout.md)
+---
+- **PART II: COMPONENTS**
+- [Custom Components](custom-components.md)
+- [Lifetime and Hooks](lifetime.md)
+- [Props and Storage](props.md)
+- [Event Handlers](events.md)
+- [States and Stages](states.md)
+- [Delegated Props](delegates.md)
+- [Sockets](yield.md)
+---
+- **PLOTS AND CHARTS**
+- [XYPlot](plot/xy-plot.md)
+- [XYPlot Props](plot/xy-plot-ref.md)
+- [XYPlot Charts](plot/xy-plot-charts.md)
+- [Radical Charts](plot/radical.md)
+---
+- **REFERENCE**
+- [Visualizer](ref/visualizer.md)
+- [Commands](ref/commands.md)
+- [Helpers](ref/helpers.md)
+- [Modifiers](ref/modifiers.md)
+- [Elements and Components](ref/elements.md)
+- [Hooks](ref/hooks.md)
+---
+- **COMPONENT REFERENCE**
+- _Under construction_
+- Circos
+    - [Circos]()
+    - [CircosLayer]()
+    - [CircosChord]()
+- Common
+    - [Tree]()
+- Bioinfo
+    - [GeneArea]()
+    - [Chromosome]()
+- Layout
+    - [Container]()
+    - [Rows]()
+    - [Columns]()
+    - [Box]()
+- Auxilliary
+    - [Arrow]()
+    - [Axis]()
+    - [AxisBackground]()
+    - [AxisRadical]()
+    - [Legend]()
